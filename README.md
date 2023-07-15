@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kingpin-ay" alt="kingpin-ay" /></a> </p>
 
-- 🔭 I’m currently working on **NFT-MARKET-PLACE**
+- 🔭 I’m currently working on [Project ShowCase Site](https://github.com/kingpin-ay/demonstration-site.git)
 
 - 🌱 I’m currently learning **KUBERNETES**
 
